@@ -1,3 +1,4 @@
+-- Fixes multiple checkins
 select * 
 	from Attendance a
 	where a.EnrollmentId = 36
